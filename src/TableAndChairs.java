@@ -19,5 +19,7 @@ public class TableAndChairs {
          System.out.println("A        A      E                       A");
          System.out.println("I               G                       I");
          System.out.println("R        R      !                       R");
+
+         System.out.println("Hello")
     }
 }
