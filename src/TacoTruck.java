@@ -1,7 +1,11 @@
 public class TacoTruck {
-    public static void main(string[] args) {
-        System.out.println("Welcome To Delgados Tacos!!")
+    public static void main(String[] args) {
+        System.out.println("Welcome To Delgados Tacos!!");
+        displaytacotruck();
 
+
+    }
+    public static void displaytacotruck(){
         System.out.println("TacosTacosTacosTacosTacos");
         System.out.println("T                          T");
         System.out.println("A                          A");
@@ -12,7 +16,6 @@ public class TacoTruck {
         System.out.println("U                                             U");
         System.out.println("C                                             C");
         System.out.println("K    Tacos                    Tacos           K");
-        System.out.println("Tacos     TacosTacosTacosTacos     TacosTacos")
-
+        System.out.println("Tacos     TacosTacosTacosTacos     TacosTacos");
     }
 }
