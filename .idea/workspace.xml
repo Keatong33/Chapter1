@@ -74,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/src/RandomGuess.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -101,6 +101,7 @@
         <option value="$PROJECT_DIR$/src/MovieQuote.java" />
         <option value="$PROJECT_DIR$/src/MovieQuoteInfo.java" />
         <option value="$PROJECT_DIR$/src/FavoriteSong.java" />
+        <option value="$PROJECT_DIR$/src/RandomGuess.java" />
       </list>
     </option>
   </component>
@@ -385,7 +386,7 @@
     <entry file="file://$PROJECT_DIR$/src/RandomGuess.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
